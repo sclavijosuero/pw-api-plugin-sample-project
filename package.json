@@ -1,0 +1,24 @@
+{
+  "name": "pw-api-plugin-sample-project",
+  "version": "1.0.0",
+  "description": "This project offers examples of how to use the pw-api-plugin in your Playwright setup to simplify and enhance API testing. It also provides detailed guidance on converting a standard Playwright project, which uses Playwright's standard API testing methods or Axios methods, into one that leverages the pw-api-plugin.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "playwright",
+    "plugin",
+    "api",
+    "testing",
+    "pw-api-plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13",
+    "pw-api-plugin": "^2.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
