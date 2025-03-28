@@ -17,11 +17,11 @@ For more details, visit the [pw-api-plugin GitHub repository](https://github.com
 
 ### Examples of Standard Playwright API Tests
 
-[tests\playwright-api\standard-playwright-api-example.spec.ts](tests\playwright-api\standard-playwright-api-example.spec.ts)
+[tests/playwright-api/standard-playwright-api-example.spec.ts](tests/playwright-api/standard-playwright-api-example.spec.ts)
 
 ### Examples of PW-API-PLUGIN Tests Using Playwright API (Class `pwApi`)
 
-[tests\playwright-api\pwApi-example.spec.ts](tests\playwright-api\pwApi-example.spec.ts)
+[tests/playwright-api/pwApi-example.spec.ts](tests/playwright-api/pwApi-example.spec.ts)
 
 > ✨This test file contains the same tests as _tests\playwright-api\standard-playwright-api-example.spec.ts_ but using the class `pwApi` of the `pw-api-plugin`.
 
@@ -75,11 +75,11 @@ To convert your existing Playwright project that utilizes the Playwright Standar
 
 ### Examples of Axios API Tests
 
-[tests\axios-api\standard-axios-api-example.spec.ts](tests\axios-api\standard-axios-api-example.spec.ts)
+[tests/axios-api/standard-axios-api-example.spec.ts](tests/axios-api/standard-axios-api-example.spec.ts)
 
 ### Examples of PW-API-PLUGIN Tests Using Axios API (Class `axiosApi`)
 
-[tests\axios-api\axiosApi-example.spec.ts](tests\axios-api\axiosApi-example.spec.ts)
+[tests/axios-api/axiosApi-example.spec.ts](tests/axios-api/axiosApi-example.spec.ts)
 
 > ✨ This test file contains the same tests as _tests\axios-api\standard-axios-api-example.spec.ts_ but using the class `axiosApi` of the `pw-api-plugin`.
 
